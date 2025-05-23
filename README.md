@@ -48,7 +48,7 @@ Bu proje, veri madenciliği ve makine öğrenimi teknikleri kullanarak Sakarya, 
 - Seaborn
 
 ## Proje Klasör Yapısı
-
+(Henüz güncellenmemiştir)
 ```
 ├── data/         # Veri seti (boyut nedeniyle yüklenmedi; veri edinme talimatları içerir)
 ├── Notebooks/    # Jupyter notebook'ları (analiz ve modelleme)
