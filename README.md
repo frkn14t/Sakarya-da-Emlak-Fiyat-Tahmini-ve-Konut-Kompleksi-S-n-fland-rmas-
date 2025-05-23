@@ -1,0 +1,1 @@
+# Sakarya-da-Emlak-Fiyat-Tahmini-ve-Konut-Kompleksi-S-n-fland-rmas-
