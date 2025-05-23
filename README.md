@@ -1,6 +1,3 @@
-Elbette! Projenin amacı, kullandığınız yöntemler, teknolojiler ve klasör yapısına göre daha profesyonel ve açıklayıcı bir README.md önerisi hazırlayabilirim. Aşağıda örnek bir güncellenmiş README.md bulabilirsiniz:
-
----
 
 # Sakarya'da Emlak Fiyat Tahmini ve Konut Kompleksi Sınıflandırması
 
